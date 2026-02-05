@@ -1,428 +1,2509 @@
-rad's hole cards: ['DT', 'C6']
-Aggressive's hole cards: ['C8', 'CA']
-Always_Call's hole cards: ['CJ', 'C4']
-Cautious_bot's hole cards: ['S8', 'S5']
-Probability_based_bot's hole cards: ['HQ', 'H3']
-Random_bot's hole cards: ['S6', 'HK']
+crash's hole cards: ['C7', 'HK']
+fearful_bot's hole cards: ['S8', 'H5']
+cautious_bot's hole cards: ['D9', 'DK']
+random_bot's hole cards: ['DQ', 'S4']
+aggressive_bot's hole cards: ['S5', 'SK']
+always_fold's hole cards: ['H8', 'HT']
 Started the round 1
 Street "preflop" started. (community card = [])
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-"Cautious_bot" declared "fold:0"
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-"Probability_based_bot" declared "raise:750"
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-"Random_bot" declared "fold:0"
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-"rad" declared "fold:0"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-"Aggressive" declared "raise:1000"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-"Always_Call" declared "call:1000"
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-"Probability_based_bot" declared "call:1000"
-Street "flop" started. (community card = ['S7', 'S9', 'CQ'])
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-"Always_Call" declared "call:500"
-Action observed: call by qhfhptcvpfuflzeboquiey on flop
-Action observed: call by qhfhptcvpfuflzeboquiey on flop
-Action observed: call by qhfhptcvpfuflzeboquiey on flop
-Action observed: call by qhfhptcvpfuflzeboquiey on flop
-Action observed: call by qhfhptcvpfuflzeboquiey on flop
-Action observed: call by qhfhptcvpfuflzeboquiey on flop
-"Probability_based_bot" declared "call:500"
-Street "turn" started. (community card = ['S7', 'S9', 'CQ', 'D2'])
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-"Always_Call" declared "call:500"
-Action observed: call by qhfhptcvpfuflzeboquiey on turn
-Action observed: call by qhfhptcvpfuflzeboquiey on turn
-Action observed: call by qhfhptcvpfuflzeboquiey on turn
-Action observed: call by qhfhptcvpfuflzeboquiey on turn
-Action observed: call by qhfhptcvpfuflzeboquiey on turn
-Action observed: call by qhfhptcvpfuflzeboquiey on turn
-"Probability_based_bot" declared "call:500"
-Street "river" started. (community card = ['S7', 'S9', 'CQ', 'D2', 'C9'])
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-"Always_Call" declared "call:500"
-Action observed: fold by qhfhptcvpfuflzeboquiey on river
-Action observed: fold by qhfhptcvpfuflzeboquiey on river
-Action observed: fold by qhfhptcvpfuflzeboquiey on river
-Action observed: fold by qhfhptcvpfuflzeboquiey on river
-Action observed: fold by qhfhptcvpfuflzeboquiey on river
-Action observed: fold by qhfhptcvpfuflzeboquiey on river
-"Probability_based_bot" declared "fold:0"
-"['Aggressive']" won the round 1 (stack = {'rad': 10000, 'Aggressive': 14500, 'Always_Call': 7500, 'Cautious_bot': 10000, 'Probability_based_bot': 8000, 'Random_bot': 10000})
-rad's hole cards: ['D3', 'C7']
-Aggressive's hole cards: ['H3', 'S6']
-Always_Call's hole cards: ['C9', 'SK']
-Cautious_bot's hole cards: ['H5', 'D6']
-Probability_based_bot's hole cards: ['HT', 'S5']
-Random_bot's hole cards: ['S3', 'ST']
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:750"
+Street "flop" started. (community card = ['CQ', 'H2', 'S2'])
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "fold:0"
+"['aggressive_bot']" won the round 1 (stack = {'crash': 10000, 'fearful_bot': 9750, 'cautious_bot': 9500, 'random_bot': 9250, 'aggressive_bot': 11500, 'always_fold': 10000})
+crash's hole cards: ['H6', 'D9']
+fearful_bot's hole cards: ['DT', 'CA']
+cautious_bot's hole cards: ['C9', 'D6']
+random_bot's hole cards: ['CJ', 'D5']
+aggressive_bot's hole cards: ['HJ', 'S3']
+always_fold's hole cards: ['D8', 'H9']
 Started the round 2
 Street "preflop" started. (community card = [])
-Action observed: fold by qhfhptcvpfuflzeboquiey on preflop
-Action observed: fold by qhfhptcvpfuflzeboquiey on preflop
-Action observed: fold by qhfhptcvpfuflzeboquiey on preflop
-Action observed: fold by qhfhptcvpfuflzeboquiey on preflop
-Action observed: fold by qhfhptcvpfuflzeboquiey on preflop
-Action observed: fold by qhfhptcvpfuflzeboquiey on preflop
-"Probability_based_bot" declared "fold:0"
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-"Random_bot" declared "raise:750"
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-"rad" declared "raise:1000"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-"Aggressive" declared "raise:1250"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-"Always_Call" declared "call:1250"
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-"Cautious_bot" declared "fold:0"
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-"Random_bot" declared "fold:0"
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-"rad" declared "fold:0"
-Street "flop" started. (community card = ['CQ', 'D2', 'HJ'])
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-"Always_Call" declared "call:0"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-"Always_Call" declared "call:500"
-Street "turn" started. (community card = ['CQ', 'D2', 'HJ', 'D4'])
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-"Always_Call" declared "call:0"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-"Always_Call" declared "call:500"
-Street "river" started. (community card = ['CQ', 'D2', 'HJ', 'D4', 'SJ'])
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-"Always_Call" declared "call:0"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-"Always_Call" declared "call:500"
-"['Always_Call']" won the round 2 (stack = {'rad': 9000, 'Aggressive': 11750, 'Always_Call': 12500, 'Cautious_bot': 9500, 'Probability_based_bot': 8000, 'Random_bot': 9250})
-rad's hole cards: ['HQ', 'CK']
-Aggressive's hole cards: ['H4', 'S7']
-Always_Call's hole cards: ['S9', 'C4']
-Cautious_bot's hole cards: ['DA', 'C8']
-Probability_based_bot's hole cards: ['D6', 'S2']
-Random_bot's hole cards: ['H8', 'SK']
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:750"
+Street "flop" started. (community card = ['H8', 'S8', 'S6'])
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "fold:0"
+"['aggressive_bot']" won the round 2 (stack = {'crash': 10000, 'fearful_bot': 9750, 'cautious_bot': 9250, 'random_bot': 8500, 'aggressive_bot': 12500, 'always_fold': 10000})
+crash's hole cards: ['H6', 'C4']
+fearful_bot's hole cards: ['D3', 'H8']
+cautious_bot's hole cards: ['H2', 'S5']
+random_bot's hole cards: ['ST', 'CJ']
+aggressive_bot's hole cards: ['CQ', 'S4']
+always_fold's hole cards: ['CK', 'CT']
 Started the round 3
 Street "preflop" started. (community card = [])
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: raise by olalxqxbgddcmdftzyxyqo on preflop
-"Random_bot" declared "raise:750"
-Action observed: call by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: call by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: call by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: call by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: call by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: call by dhcwsvbttfbdgixlqzxkvm on preflop
-"rad" declared "call:750"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-"Aggressive" declared "raise:1000"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-"Always_Call" declared "call:1000"
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-Action observed: fold by inxlcvofycrswvyyzslhuj on preflop
-"Cautious_bot" declared "fold:0"
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-"Probability_based_bot" declared "call:1000"
-Action observed: call by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: call by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: call by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: call by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: call by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: call by olalxqxbgddcmdftzyxyqo on preflop
-"Random_bot" declared "call:1000"
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: raise by dhcwsvbttfbdgixlqzxkvm on preflop
-"rad" declared "raise:1250"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-"Aggressive" declared "raise:1500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-"Always_Call" declared "call:1500"
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-Action observed: raise by qhfhptcvpfuflzeboquiey on preflop
-"Probability_based_bot" declared "raise:1750"
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-Action observed: fold by olalxqxbgddcmdftzyxyqo on preflop
-"Random_bot" declared "fold:0"
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-Action observed: fold by dhcwsvbttfbdgixlqzxkvm on preflop
-"rad" declared "fold:0"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on preflop
-"Aggressive" declared "raise:2000"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on preflop
-"Always_Call" declared "call:2000"
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-Action observed: call by qhfhptcvpfuflzeboquiey on preflop
-"Probability_based_bot" declared "call:2000"
-Street "flop" started. (community card = ['HT', 'C7', 'H7'])
-Action observed: fold by qhfhptcvpfuflzeboquiey on flop
-Action observed: fold by qhfhptcvpfuflzeboquiey on flop
-Action observed: fold by qhfhptcvpfuflzeboquiey on flop
-Action observed: fold by qhfhptcvpfuflzeboquiey on flop
-Action observed: fold by qhfhptcvpfuflzeboquiey on flop
-Action observed: fold by qhfhptcvpfuflzeboquiey on flop
-"Probability_based_bot" declared "fold:0"
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-Action observed: raise by wapmflbwdxxkpzxqvwajox on flop
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on flop
-"Always_Call" declared "call:500"
-Street "turn" started. (community card = ['HT', 'C7', 'H7', 'D5'])
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-Action observed: raise by wapmflbwdxxkpzxqvwajox on turn
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on turn
-"Always_Call" declared "call:500"
-Street "river" started. (community card = ['HT', 'C7', 'H7', 'D5', 'D9'])
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-Action observed: raise by wapmflbwdxxkpzxqvwajox on river
-"Aggressive" declared "raise:500"
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-Action observed: call by ibpsgvfsmjkhyjynbssmjr on river
-"Always_Call" declared "call:500"
-"['Aggressive']" won the round 3 (stack = {'rad': 7750, 'Aggressive': 19750, 'Always_Call': 9000, 'Cautious_bot': 9250, 'Probability_based_bot': 6000, 'Random_bot': 8250})
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "raise:750"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:1000"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+"['aggressive_bot']" won the round 3 (stack = {'crash': 10000, 'fearful_bot': 9750, 'cautious_bot': 9250, 'random_bot': 7750, 'aggressive_bot': 13250, 'always_fold': 10000})
+crash's hole cards: ['D7', 'S9']
+fearful_bot's hole cards: ['ST', 'S7']
+cautious_bot's hole cards: ['H5', 'S5']
+random_bot's hole cards: ['C7', 'H6']
+aggressive_bot's hole cards: ['H7', 'C2']
+always_fold's hole cards: ['HJ', 'S4']
+Started the round 4
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+"['aggressive_bot']" won the round 4 (stack = {'crash': 10000, 'fearful_bot': 9750, 'cautious_bot': 9250, 'random_bot': 7750, 'aggressive_bot': 13750, 'always_fold': 9500})
+crash's hole cards: ['CK', 'S7']
+fearful_bot's hole cards: ['S8', 'DA']
+cautious_bot's hole cards: ['SJ', 'S2']
+random_bot's hole cards: ['C4', 'S4']
+aggressive_bot's hole cards: ['S9', 'H8']
+always_fold's hole cards: ['H5', 'ST']
+Started the round 5
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+"['aggressive_bot']" won the round 5 (stack = {'crash': 9500, 'fearful_bot': 9750, 'cautious_bot': 9250, 'random_bot': 7750, 'aggressive_bot': 14500, 'always_fold': 9250})
+crash's hole cards: ['D8', 'D3']
+fearful_bot's hole cards: ['H5', 'DA']
+cautious_bot's hole cards: ['S9', 'DQ']
+random_bot's hole cards: ['SQ', 'S5']
+aggressive_bot's hole cards: ['CK', 'H4']
+always_fold's hole cards: ['H8', 'C9']
+Started the round 6
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+"['aggressive_bot']" won the round 6 (stack = {'crash': 9250, 'fearful_bot': 9250, 'cautious_bot': 9250, 'random_bot': 7750, 'aggressive_bot': 15250, 'always_fold': 9250})
+crash's hole cards: ['DA', 'S2']
+fearful_bot's hole cards: ['H2', 'CK']
+cautious_bot's hole cards: ['DQ', 'HK']
+random_bot's hole cards: ['D4', 'SJ']
+aggressive_bot's hole cards: ['D2', 'C9']
+always_fold's hole cards: ['CQ', 'SA']
+Started the round 7
+Street "preflop" started. (community card = [])
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "raise:750"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:1000"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "raise:1250"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:1500"
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:1500"
+Street "flop" started. (community card = ['H9', 'DT', 'ST'])
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "raise:500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+"aggressive_bot" declared "raise:1000"
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "raise:1500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+"aggressive_bot" declared "raise:2000"
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+Action observed: fold by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "fold:0"
+"['aggressive_bot']" won the round 7 (stack = {'crash': 9250, 'fearful_bot': 9000, 'cautious_bot': 8750, 'random_bot': 4750, 'aggressive_bot': 19000, 'always_fold': 9250})
+crash's hole cards: ['S5', 'H4']
+fearful_bot's hole cards: ['D2', 'CT']
+cautious_bot's hole cards: ['H2', 'DA']
+random_bot's hole cards: ['H7', 'C4']
+aggressive_bot's hole cards: ['CJ', 'D5']
+always_fold's hole cards: ['HA', 'C7']
+Started the round 8
+Street "preflop" started. (community card = [])
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "raise:1000"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:1250"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+"['aggressive_bot']" won the round 8 (stack = {'crash': 9250, 'fearful_bot': 9000, 'cautious_bot': 8500, 'random_bot': 3750, 'aggressive_bot': 20250, 'always_fold': 9250})
+crash's hole cards: ['C9', 'HT']
+fearful_bot's hole cards: ['ST', 'DT']
+cautious_bot's hole cards: ['D2', 'C6']
+random_bot's hole cards: ['CT', 'H5']
+aggressive_bot's hole cards: ['DQ', 'S2']
+always_fold's hole cards: ['H9', 'CA']
+Started the round 9
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:750"
+Street "flop" started. (community card = ['D3', 'DK', 'C7'])
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "raise:500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+"aggressive_bot" declared "raise:1000"
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "call:1000"
+Street "turn" started. (community card = ['D3', 'DK', 'C7', 'H4'])
+Action observed: raise by wbraeitbytzzvjcwfriaib on turn
+Action observed: raise by wbraeitbytzzvjcwfriaib on turn
+Action observed: raise by wbraeitbytzzvjcwfriaib on turn
+Action observed: raise by wbraeitbytzzvjcwfriaib on turn
+Action observed: raise by wbraeitbytzzvjcwfriaib on turn
+Action observed: raise by wbraeitbytzzvjcwfriaib on turn
+"random_bot" declared "raise:500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on turn
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on turn
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on turn
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on turn
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on turn
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on turn
+"aggressive_bot" declared "raise:1000"
+Action observed: fold by wbraeitbytzzvjcwfriaib on turn
+Action observed: fold by wbraeitbytzzvjcwfriaib on turn
+Action observed: fold by wbraeitbytzzvjcwfriaib on turn
+Action observed: fold by wbraeitbytzzvjcwfriaib on turn
+Action observed: fold by wbraeitbytzzvjcwfriaib on turn
+Action observed: fold by wbraeitbytzzvjcwfriaib on turn
+"random_bot" declared "fold:0"
+"['aggressive_bot']" won the round 9 (stack = {'crash': 9250, 'fearful_bot': 9000, 'cautious_bot': 8500, 'random_bot': 1500, 'aggressive_bot': 22500, 'always_fold': 9250})
+crash's hole cards: ['S9', 'H6']
+fearful_bot's hole cards: ['C4', 'HA']
+cautious_bot's hole cards: ['SJ', 'C9']
+random_bot's hole cards: ['C5', 'D7']
+aggressive_bot's hole cards: ['DK', 'HJ']
+always_fold's hole cards: ['CT', 'DT']
+Started the round 10
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+"['aggressive_bot']" won the round 10 (stack = {'crash': 9250, 'fearful_bot': 9000, 'cautious_bot': 8500, 'random_bot': 1500, 'aggressive_bot': 23000, 'always_fold': 8750})
+crash's hole cards: ['D9', 'C2']
+fearful_bot's hole cards: ['S6', 'C4']
+cautious_bot's hole cards: ['HJ', 'S4']
+random_bot's hole cards: ['SA', 'CK']
+aggressive_bot's hole cards: ['D4', 'H7']
+always_fold's hole cards: ['DK', 'ST']
+Started the round 11
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+"['aggressive_bot']" won the round 11 (stack = {'crash': 8750, 'fearful_bot': 9000, 'cautious_bot': 8500, 'random_bot': 1500, 'aggressive_bot': 23750, 'always_fold': 8500})
+crash's hole cards: ['C4', 'DT']
+fearful_bot's hole cards: ['S2', 'H2']
+cautious_bot's hole cards: ['DK', 'D3']
+random_bot's hole cards: ['DA', 'HK']
+aggressive_bot's hole cards: ['H9', 'D9']
+always_fold's hole cards: ['H4', 'S5']
+Started the round 12
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+"['aggressive_bot']" won the round 12 (stack = {'crash': 8500, 'fearful_bot': 8500, 'cautious_bot': 8500, 'random_bot': 1500, 'aggressive_bot': 24500, 'always_fold': 8500})
+crash's hole cards: ['D4', 'C4']
+fearful_bot's hole cards: ['C9', 'S6']
+cautious_bot's hole cards: ['ST', 'C8']
+random_bot's hole cards: ['SA', 'DA']
+aggressive_bot's hole cards: ['D5', 'C3']
+always_fold's hole cards: ['C7', 'DJ']
+Started the round 13
+Street "preflop" started. (community card = [])
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 13 (stack = {'crash': 8500, 'fearful_bot': 8250, 'cautious_bot': 8000, 'random_bot': 1500, 'aggressive_bot': 25250, 'always_fold': 8500})
+crash's hole cards: ['H3', 'CK']
+fearful_bot's hole cards: ['C4', 'DK']
+cautious_bot's hole cards: ['ST', 'H4']
+random_bot's hole cards: ['DQ', 'D6']
+aggressive_bot's hole cards: ['H5', 'HQ']
+always_fold's hole cards: ['D2', 'D8']
+Started the round 14
+Street "preflop" started. (community card = [])
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+"['aggressive_bot']" won the round 14 (stack = {'crash': 8500, 'fearful_bot': 8250, 'cautious_bot': 7750, 'random_bot': 1000, 'aggressive_bot': 26000, 'always_fold': 8500})
+crash's hole cards: ['CA', 'DT']
+fearful_bot's hole cards: ['C5', 'DA']
+cautious_bot's hole cards: ['HK', 'S9']
+random_bot's hole cards: ['H8', 'CT']
+aggressive_bot's hole cards: ['C3', 'H4']
+always_fold's hole cards: ['H7', 'CJ']
+Started the round 15
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "raise:750"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:1000"
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+Action observed: fold by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "fold:0"
+"['aggressive_bot']" won the round 15 (stack = {'crash': 8500, 'fearful_bot': 8250, 'cautious_bot': 7750, 'random_bot': 250, 'aggressive_bot': 26750, 'always_fold': 8500})
+crash's hole cards: ['C6', 'C3']
+fearful_bot's hole cards: ['CQ', 'S6']
+cautious_bot's hole cards: ['D6', 'SA']
+random_bot's hole cards: ['H6', 'SJ']
+aggressive_bot's hole cards: ['H2', 'H7']
+always_fold's hole cards: ['S3', 'HK']
+Started the round 16
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Street "flop" started. (community card = ['C8', 'HQ', 'D9'])
+Street "turn" started. (community card = ['C8', 'HQ', 'D9', 'S5'])
+Street "river" started. (community card = ['C8', 'HQ', 'D9', 'S5', 'H5'])
+"['random_bot']" won the round 16 (stack = {'crash': 8500, 'fearful_bot': 8250, 'cautious_bot': 7750, 'random_bot': 750, 'aggressive_bot': 26750, 'always_fold': 8000})
+crash's hole cards: ['C5', 'CT']
+fearful_bot's hole cards: ['S2', 'C4']
+cautious_bot's hole cards: ['H3', 'S4']
+random_bot's hole cards: ['S9', 'D8']
+aggressive_bot's hole cards: ['D5', 'S8']
+always_fold's hole cards: ['H4', 'H9']
+Started the round 17
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "raise:750"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:1000"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Street "flop" started. (community card = ['C9', 'CK', 'DJ'])
+Street "turn" started. (community card = ['C9', 'CK', 'DJ', 'C7'])
+Street "river" started. (community card = ['C9', 'CK', 'DJ', 'C7', 'D9'])
+"['random_bot']" won the round 17 (stack = {'crash': 8000, 'fearful_bot': 8250, 'cautious_bot': 7750, 'random_bot': 2250, 'aggressive_bot': 26000, 'always_fold': 7750})
+crash's hole cards: ['HT', 'H3']
+fearful_bot's hole cards: ['H6', 'CT']
+cautious_bot's hole cards: ['S8', 'S5']
+random_bot's hole cards: ['SK', 'S2']
+aggressive_bot's hole cards: ['D8', 'H2']
+always_fold's hole cards: ['D4', 'DA']
+Started the round 18
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "raise:1000"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:1250"
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+Action observed: raise by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "raise:1500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:1750"
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:1750"
+Street "flop" started. (community card = ['D9', 'CJ', 'CK'])
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+Action observed: call by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "call:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on flop
+"aggressive_bot" declared "raise:500"
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+Action observed: raise by wbraeitbytzzvjcwfriaib on flop
+"random_bot" declared "raise:-1"
+"['aggressive_bot']" won the round 18 (stack = {'crash': 7750, 'fearful_bot': 7750, 'cautious_bot': 7750, 'random_bot': 500, 'aggressive_bot': 28500, 'always_fold': 7750})
+crash's hole cards: ['H4', 'ST']
+fearful_bot's hole cards: ['DA', 'SA']
+cautious_bot's hole cards: ['H2', 'H5']
+random_bot's hole cards: ['SJ', 'D5']
+aggressive_bot's hole cards: ['S6', 'DK']
+always_fold's hole cards: ['S8', 'H9']
+Started the round 19
+Street "preflop" started. (community card = [])
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+Action observed: call by wbraeitbytzzvjcwfriaib on preflop
+"random_bot" declared "call:500"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Street "flop" started. (community card = ['H7', 'CQ', 'C6'])
+Street "turn" started. (community card = ['H7', 'CQ', 'C6', 'SQ'])
+Street "river" started. (community card = ['H7', 'CQ', 'C6', 'SQ', 'D6'])
+"['aggressive_bot']" won the round 19 (stack = {'crash': 7750, 'fearful_bot': 7500, 'cautious_bot': 7250, 'random_bot': 0, 'aggressive_bot': 29750, 'always_fold': 7750})
+crash's hole cards: ['S7', 'C9']
+fearful_bot's hole cards: ['C2', 'S6']
+cautious_bot's hole cards: ['C7', 'H9']
+random_bot's hole cards: ['C8', 'ST']
+aggressive_bot's hole cards: ['D7', 'D3']
+always_fold's hole cards: ['C4', 'D4']
+Started the round 20
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 20 (stack = {'crash': 7750, 'fearful_bot': 7500, 'cautious_bot': 7000, 'random_bot': 0, 'aggressive_bot': 30000, 'always_fold': 7750})
+crash's hole cards: ['SK', 'S9']
+fearful_bot's hole cards: ['C6', 'HT']
+cautious_bot's hole cards: ['D6', 'HA']
+random_bot's hole cards: ['S8', 'ST']
+aggressive_bot's hole cards: ['CA', 'S2']
+always_fold's hole cards: ['D3', 'C3']
+Started the round 21
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+"['aggressive_bot']" won the round 21 (stack = {'crash': 7750, 'fearful_bot': 7500, 'cautious_bot': 7000, 'random_bot': 0, 'aggressive_bot': 30500, 'always_fold': 7250})
+crash's hole cards: ['DK', 'DT']
+fearful_bot's hole cards: ['H7', 'CQ']
+cautious_bot's hole cards: ['C3', 'H6']
+random_bot's hole cards: ['ST', 'SJ']
+aggressive_bot's hole cards: ['S7', 'HJ']
+always_fold's hole cards: ['S6', 'H5']
+Started the round 22
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+"['aggressive_bot']" won the round 22 (stack = {'crash': 7250, 'fearful_bot': 7500, 'cautious_bot': 7000, 'random_bot': 0, 'aggressive_bot': 31250, 'always_fold': 7000})
+crash's hole cards: ['CA', 'S4']
+fearful_bot's hole cards: ['H3', 'CQ']
+cautious_bot's hole cards: ['ST', 'D8']
+random_bot's hole cards: ['H8', 'C3']
+aggressive_bot's hole cards: ['DA', 'D6']
+always_fold's hole cards: ['SK', 'DK']
+Started the round 23
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+"['aggressive_bot']" won the round 23 (stack = {'crash': 7000, 'fearful_bot': 7000, 'cautious_bot': 7000, 'random_bot': 0, 'aggressive_bot': 32000, 'always_fold': 7000})
+crash's hole cards: ['C9', 'DA']
+fearful_bot's hole cards: ['HA', 'SA']
+cautious_bot's hole cards: ['D2', 'DK']
+random_bot's hole cards: ['D3', 'CA']
+aggressive_bot's hole cards: ['D6', 'S7']
+always_fold's hole cards: ['S3', 'CT']
+Started the round 24
+Street "preflop" started. (community card = [])
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 24 (stack = {'crash': 7000, 'fearful_bot': 6750, 'cautious_bot': 6500, 'random_bot': 0, 'aggressive_bot': 32750, 'always_fold': 7000})
+crash's hole cards: ['ST', 'S6']
+fearful_bot's hole cards: ['S2', 'SQ']
+cautious_bot's hole cards: ['HT', 'D4']
+random_bot's hole cards: ['D9', 'C8']
+aggressive_bot's hole cards: ['H3', 'C6']
+always_fold's hole cards: ['SJ', 'C3']
+Started the round 25
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 25 (stack = {'crash': 7000, 'fearful_bot': 6750, 'cautious_bot': 6250, 'random_bot': 0, 'aggressive_bot': 33000, 'always_fold': 7000})
+crash's hole cards: ['H8', 'DJ']
+fearful_bot's hole cards: ['S4', 'D3']
+cautious_bot's hole cards: ['CK', 'CJ']
+random_bot's hole cards: ['S6', 'HK']
+aggressive_bot's hole cards: ['HA', 'C8']
+always_fold's hole cards: ['DT', 'C3']
+Started the round 26
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+"['aggressive_bot']" won the round 26 (stack = {'crash': 7000, 'fearful_bot': 6750, 'cautious_bot': 6250, 'random_bot': 0, 'aggressive_bot': 33500, 'always_fold': 6500})
+crash's hole cards: ['H3', 'SA']
+fearful_bot's hole cards: ['HJ', 'S2']
+cautious_bot's hole cards: ['S5', 'D9']
+random_bot's hole cards: ['CQ', 'H4']
+aggressive_bot's hole cards: ['ST', 'DQ']
+always_fold's hole cards: ['D8', 'D5']
+Started the round 27
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+"['aggressive_bot']" won the round 27 (stack = {'crash': 6500, 'fearful_bot': 6750, 'cautious_bot': 6250, 'random_bot': 0, 'aggressive_bot': 34250, 'always_fold': 6250})
+crash's hole cards: ['S7', 'DQ']
+fearful_bot's hole cards: ['D8', 'C3']
+cautious_bot's hole cards: ['H3', 'SJ']
+random_bot's hole cards: ['S2', 'HT']
+aggressive_bot's hole cards: ['CQ', 'D3']
+always_fold's hole cards: ['HQ', 'S4']
+Started the round 28
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+"['aggressive_bot']" won the round 28 (stack = {'crash': 6250, 'fearful_bot': 6250, 'cautious_bot': 6250, 'random_bot': 0, 'aggressive_bot': 35000, 'always_fold': 6250})
+crash's hole cards: ['HQ', 'C2']
+fearful_bot's hole cards: ['H9', 'H6']
+cautious_bot's hole cards: ['SK', 'S8']
+random_bot's hole cards: ['DT', 'H4']
+aggressive_bot's hole cards: ['S7', 'CK']
+always_fold's hole cards: ['DK', 'HJ']
+Started the round 29
+Street "preflop" started. (community card = [])
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 29 (stack = {'crash': 6250, 'fearful_bot': 6000, 'cautious_bot': 5750, 'random_bot': 0, 'aggressive_bot': 35750, 'always_fold': 6250})
+crash's hole cards: ['CT', 'CJ']
+fearful_bot's hole cards: ['H9', 'CK']
+cautious_bot's hole cards: ['D2', 'H7']
+random_bot's hole cards: ['D5', 'S5']
+aggressive_bot's hole cards: ['CA', 'ST']
+always_fold's hole cards: ['H4', 'SQ']
+Started the round 30
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 30 (stack = {'crash': 6250, 'fearful_bot': 6000, 'cautious_bot': 5500, 'random_bot': 0, 'aggressive_bot': 36000, 'always_fold': 6250})
+crash's hole cards: ['C6', 'D9']
+fearful_bot's hole cards: ['D8', 'HJ']
+cautious_bot's hole cards: ['C2', 'H8']
+random_bot's hole cards: ['CA', 'ST']
+aggressive_bot's hole cards: ['S8', 'H4']
+always_fold's hole cards: ['S3', 'C9']
+Started the round 31
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+"['aggressive_bot']" won the round 31 (stack = {'crash': 6250, 'fearful_bot': 6000, 'cautious_bot': 5500, 'random_bot': 0, 'aggressive_bot': 36500, 'always_fold': 5750})
+crash's hole cards: ['S9', 'D5']
+fearful_bot's hole cards: ['DT', 'D7']
+cautious_bot's hole cards: ['S7', 'DK']
+random_bot's hole cards: ['H7', 'CT']
+aggressive_bot's hole cards: ['SK', 'SJ']
+always_fold's hole cards: ['S8', 'C5']
+Started the round 32
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+"['aggressive_bot']" won the round 32 (stack = {'crash': 5750, 'fearful_bot': 6000, 'cautious_bot': 5500, 'random_bot': 0, 'aggressive_bot': 37250, 'always_fold': 5500})
+crash's hole cards: ['H5', 'C4']
+fearful_bot's hole cards: ['C3', 'D6']
+cautious_bot's hole cards: ['H7', 'HQ']
+random_bot's hole cards: ['HJ', 'HT']
+aggressive_bot's hole cards: ['CT', 'S7']
+always_fold's hole cards: ['CJ', 'SJ']
+Started the round 33
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+"['aggressive_bot']" won the round 33 (stack = {'crash': 5500, 'fearful_bot': 5500, 'cautious_bot': 5500, 'random_bot': 0, 'aggressive_bot': 38000, 'always_fold': 5500})
+crash's hole cards: ['D6', 'H5']
+fearful_bot's hole cards: ['S3', 'HQ']
+cautious_bot's hole cards: ['HA', 'CQ']
+random_bot's hole cards: ['H7', 'DT']
+aggressive_bot's hole cards: ['SQ', 'H3']
+always_fold's hole cards: ['C3', 'C6']
+Started the round 34
+Street "preflop" started. (community card = [])
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 34 (stack = {'crash': 5500, 'fearful_bot': 5250, 'cautious_bot': 5000, 'random_bot': 0, 'aggressive_bot': 38750, 'always_fold': 5500})
+crash's hole cards: ['C4', 'S2']
+fearful_bot's hole cards: ['S8', 'H9']
+cautious_bot's hole cards: ['C7', 'H7']
+random_bot's hole cards: ['HJ', 'H3']
+aggressive_bot's hole cards: ['CK', 'D7']
+always_fold's hole cards: ['DK', 'CT']
+Started the round 35
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 35 (stack = {'crash': 5500, 'fearful_bot': 5250, 'cautious_bot': 4750, 'random_bot': 0, 'aggressive_bot': 39000, 'always_fold': 5500})
+crash's hole cards: ['D5', 'S2']
+fearful_bot's hole cards: ['S4', 'CK']
+cautious_bot's hole cards: ['D6', 'SJ']
+random_bot's hole cards: ['H3', 'DJ']
+aggressive_bot's hole cards: ['CA', 'C5']
+always_fold's hole cards: ['CT', 'S7']
+Started the round 36
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+"['aggressive_bot']" won the round 36 (stack = {'crash': 5500, 'fearful_bot': 5250, 'cautious_bot': 4750, 'random_bot': 0, 'aggressive_bot': 39500, 'always_fold': 5000})
+crash's hole cards: ['D4', 'C7']
+fearful_bot's hole cards: ['H4', 'S5']
+cautious_bot's hole cards: ['S7', 'DJ']
+random_bot's hole cards: ['D3', 'HA']
+aggressive_bot's hole cards: ['S6', 'SQ']
+always_fold's hole cards: ['D5', 'CA']
+Started the round 37
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+"['aggressive_bot']" won the round 37 (stack = {'crash': 5000, 'fearful_bot': 5250, 'cautious_bot': 4750, 'random_bot': 0, 'aggressive_bot': 40250, 'always_fold': 4750})
+crash's hole cards: ['H5', 'D9']
+fearful_bot's hole cards: ['H4', 'HK']
+cautious_bot's hole cards: ['CK', 'CT']
+random_bot's hole cards: ['DK', 'D7']
+aggressive_bot's hole cards: ['DA', 'CA']
+always_fold's hole cards: ['H3', 'CJ']
+Started the round 38
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+"['aggressive_bot']" won the round 38 (stack = {'crash': 4750, 'fearful_bot': 4750, 'cautious_bot': 4750, 'random_bot': 0, 'aggressive_bot': 41000, 'always_fold': 4750})
+crash's hole cards: ['C2', 'DT']
+fearful_bot's hole cards: ['S2', 'CK']
+cautious_bot's hole cards: ['H9', 'S3']
+random_bot's hole cards: ['CQ', 'H6']
+aggressive_bot's hole cards: ['S7', 'H8']
+always_fold's hole cards: ['D7', 'DA']
+Started the round 39
+Street "preflop" started. (community card = [])
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 39 (stack = {'crash': 4750, 'fearful_bot': 4500, 'cautious_bot': 4250, 'random_bot': 0, 'aggressive_bot': 41750, 'always_fold': 4750})
+crash's hole cards: ['S3', 'C7']
+fearful_bot's hole cards: ['C5', 'H6']
+cautious_bot's hole cards: ['HK', 'H3']
+random_bot's hole cards: ['S7', 'CK']
+aggressive_bot's hole cards: ['ST', 'C2']
+always_fold's hole cards: ['S8', 'CJ']
+Started the round 40
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 40 (stack = {'crash': 4750, 'fearful_bot': 4500, 'cautious_bot': 4000, 'random_bot': 0, 'aggressive_bot': 42000, 'always_fold': 4750})
+crash's hole cards: ['H5', 'S9']
+fearful_bot's hole cards: ['S7', 'SJ']
+cautious_bot's hole cards: ['HQ', 'D7']
+random_bot's hole cards: ['D2', 'D5']
+aggressive_bot's hole cards: ['C3', 'H7']
+always_fold's hole cards: ['S8', 'SQ']
+Started the round 41
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+"['aggressive_bot']" won the round 41 (stack = {'crash': 4750, 'fearful_bot': 4500, 'cautious_bot': 4000, 'random_bot': 0, 'aggressive_bot': 42500, 'always_fold': 4250})
+crash's hole cards: ['DQ', 'DA']
+fearful_bot's hole cards: ['HT', 'HQ']
+cautious_bot's hole cards: ['D4', 'H3']
+random_bot's hole cards: ['CT', 'D5']
+aggressive_bot's hole cards: ['H7', 'D9']
+always_fold's hole cards: ['S3', 'S8']
+Started the round 42
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+"['aggressive_bot']" won the round 42 (stack = {'crash': 4250, 'fearful_bot': 4500, 'cautious_bot': 4000, 'random_bot': 0, 'aggressive_bot': 43250, 'always_fold': 4000})
+crash's hole cards: ['S9', 'C5']
+fearful_bot's hole cards: ['C8', 'SJ']
+cautious_bot's hole cards: ['HT', 'DJ']
+random_bot's hole cards: ['H3', 'C3']
+aggressive_bot's hole cards: ['H8', 'D3']
+always_fold's hole cards: ['H7', 'D7']
+Started the round 43
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+"['aggressive_bot']" won the round 43 (stack = {'crash': 4000, 'fearful_bot': 4000, 'cautious_bot': 4000, 'random_bot': 0, 'aggressive_bot': 44000, 'always_fold': 4000})
+crash's hole cards: ['D8', 'C8']
+fearful_bot's hole cards: ['HJ', 'CJ']
+cautious_bot's hole cards: ['D4', 'S3']
+random_bot's hole cards: ['D7', 'C7']
+aggressive_bot's hole cards: ['CQ', 'HA']
+always_fold's hole cards: ['S2', 'SJ']
+Started the round 44
+Street "preflop" started. (community card = [])
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 44 (stack = {'crash': 4000, 'fearful_bot': 3750, 'cautious_bot': 3500, 'random_bot': 0, 'aggressive_bot': 44750, 'always_fold': 4000})
+crash's hole cards: ['CK', 'DJ']
+fearful_bot's hole cards: ['D9', 'S3']
+cautious_bot's hole cards: ['CQ', 'D5']
+random_bot's hole cards: ['HJ', 'HQ']
+aggressive_bot's hole cards: ['D3', 'C4']
+always_fold's hole cards: ['D2', 'S8']
+Started the round 45
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 45 (stack = {'crash': 4000, 'fearful_bot': 3750, 'cautious_bot': 3250, 'random_bot': 0, 'aggressive_bot': 45000, 'always_fold': 4000})
+crash's hole cards: ['DA', 'ST']
+fearful_bot's hole cards: ['H9', 'H3']
+cautious_bot's hole cards: ['D5', 'CK']
+random_bot's hole cards: ['C7', 'H6']
+aggressive_bot's hole cards: ['S5', 'C2']
+always_fold's hole cards: ['SQ', 'DK']
+Started the round 46
+Street "preflop" started. (community card = [])
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+"['aggressive_bot']" won the round 46 (stack = {'crash': 4000, 'fearful_bot': 3750, 'cautious_bot': 3250, 'random_bot': 0, 'aggressive_bot': 45500, 'always_fold': 3500})
+crash's hole cards: ['ST', 'C4']
+fearful_bot's hole cards: ['C2', 'D4']
+cautious_bot's hole cards: ['DK', 'H3']
+random_bot's hole cards: ['S3', 'D8']
+aggressive_bot's hole cards: ['S6', 'C7']
+always_fold's hole cards: ['C5', 'SJ']
+Started the round 47
+Street "preflop" started. (community card = [])
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+"['aggressive_bot']" won the round 47 (stack = {'crash': 3500, 'fearful_bot': 3750, 'cautious_bot': 3250, 'random_bot': 0, 'aggressive_bot': 46250, 'always_fold': 3250})
+crash's hole cards: ['D5', 'SA']
+fearful_bot's hole cards: ['C2', 'H6']
+cautious_bot's hole cards: ['D6', 'CT']
+random_bot's hole cards: ['S2', 'DA']
+aggressive_bot's hole cards: ['H8', 'C4']
+always_fold's hole cards: ['C9', 'C7']
+Started the round 48
+Street "preflop" started. (community card = [])
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+"['aggressive_bot']" won the round 48 (stack = {'crash': 3250, 'fearful_bot': 3250, 'cautious_bot': 3250, 'random_bot': 0, 'aggressive_bot': 47000, 'always_fold': 3250})
+crash's hole cards: ['D3', 'SK']
+fearful_bot's hole cards: ['SJ', 'C7']
+cautious_bot's hole cards: ['D5', 'D4']
+random_bot's hole cards: ['CK', 'S3']
+aggressive_bot's hole cards: ['H5', 'SQ']
+always_fold's hole cards: ['C4', 'HJ']
+Started the round 49
+Street "preflop" started. (community card = [])
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+Action observed: raise by pbrhdwjpyalzynwdqxaxsn on preflop
+"aggressive_bot" declared "raise:750"
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 49 (stack = {'crash': 3250, 'fearful_bot': 3000, 'cautious_bot': 2750, 'random_bot': 0, 'aggressive_bot': 47750, 'always_fold': 3250})
+crash's hole cards: ['D6', 'CA']
+fearful_bot's hole cards: ['S4', 'CJ']
+cautious_bot's hole cards: ['HT', 'D3']
+random_bot's hole cards: ['HA', 'D2']
+aggressive_bot's hole cards: ['D8', 'H4']
+always_fold's hole cards: ['D5', 'CK']
+Started the round 50
+Street "preflop" started. (community card = [])
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+Action observed: fold by indogtzabftuvpdpjjcctw on preflop
+"always_fold" declared "fold:0"
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+Action observed: fold by wozvaiugurbofqupxsxkap on preflop
+"crash" declared "fold:0"
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+Action observed: fold by azyhnkcztmkxsocxfrgsee on preflop
+"fearful_bot" declared "fold:0"
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+Action observed: fold by dbolbgsohyaxqkxhnhxbrl on preflop
+"cautious_bot" declared "fold:0"
+"['aggressive_bot']" won the round 50 (stack = {'crash': 3250, 'fearful_bot': 3000, 'cautious_bot': 2500, 'random_bot': 0, 'aggressive_bot': 48000, 'always_fold': 3250})

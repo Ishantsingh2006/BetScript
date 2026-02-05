@@ -9,6 +9,7 @@ from django.core.exceptions import ValidationError, PermissionDenied, ObjectDoes
 import re
 from .models import Bot, Match, TestBot, TestMatch
 from .utils import play_match,play_test_match
+from .tournament_runner import run_tournament
 
 User = get_user_model()
 
@@ -157,57 +158,101 @@ def test_run(request):
             messages.error(request, f"Error saving bot file: {str(e)}")
             return redirect('/deploy_bot/')
 
-        # Load predefined bots with error handling
-        predefined_bots_info = [
-            {"name": "Aggressive", "path": "bots/aggressive_bot.py"},
-            {"name": "Always_Call", "path": "bots/always_call_bot.py"},
-            {"name": "Cautious_bot", "path": "bots/cautious_bot.py"},
-            {"name": "Probability_based_bot", "path": "bots/probability_based_bot.py"},
-            {"name": "Random_bot", "path": "bots/random_bot.py"}
-        ]
+        # Discover all available bots in bots/ directory
+        import glob
+        import os
+        
+        bot_files = glob.glob('bots/*.py')
+        available_opponents = []
+        test_bot_objects = {} # Map name to TestBot object for quick lookup/creation
 
-        test_bots = []
-        for bot_info in predefined_bots_info:
+        for file_path in bot_files:
+            filename = os.path.basename(file_path)
+            if filename in ['base.py', '__init__.py']:
+                continue
+            
+            # Simple name extraction: filename without extension, capitalized or as is
+            # Original code used hardcoded names like "Aggressive", "Always_Call"
+            # We can try to infer a nice name or just use the filename base.
+            # Let's use the filename stem (e.g. 'aggressive_bot') and Title Case it for display if needed,
+            # but for consistency with original hardcoded list, we should try to match if possible.
+            # However, simpler is just to use the filename stem as the name.
+            
+            # Special case mapping to match old hardcoded names if desired, or just use new naming convention.
+            # Old: "Aggressive" -> bots/aggressive_bot.py
+            # To avoid duplicates if DB has old names, we check.
+            
+            name = filename.replace('.py', '').replace('_', ' ').title().replace(' ', '_') # aggressive_bot -> Aggressive_Bot
+            # Fix specific ones to match original exact strings if we want to be perfect, 
+            # but generic is better for "all bots".
+            # The original names were: "Aggressive", "Always_Call", "Cautious_bot", "Probability_based_bot", "Random_bot"
+            # My generic formatter: "Aggressive_Bot", "Always_Call_Bot", ...
+            # Let's just use the filename as the unique key/name to be safe and simple.
+            name = filename.replace('.py', '') # aggressive_bot
+            
+            # Create/Get TestBot entry
             try:
                 bot, _ = TestBot.objects.get_or_create(
                     user=user,
-                    name=bot_info['name'],
-                    defaults={'file': bot_info['path']}
+                    name=name,
+                    defaults={'file': file_path}
                 )
-                test_bots.append(bot)
+                available_opponents.append({'name': name, 'path': file_path})
+                test_bot_objects[name] = bot
             except Exception as e:
-                messages.error(request, f"Error loading predefined bot {bot_info['name']}: {str(e)}")
-                return redirect('/deploy_bot/')
+                continue
 
-        all_bots = [new_test_bot] + test_bots
-        bot_paths = [bot.file.path for bot in all_bots]
         try:
-            match_result, rounds_data = play_test_match(bot_paths, all_bots)
+            # Run Tournament
+            best_match, worst_match, metadata = run_tournament(new_test_bot, available_opponents, iterations=10)
+            
+            if not best_match or not worst_match:
+                 messages.error(request, "Error executing tournament")
+                 return redirect('/deploy_bot/')
+                 
         except Exception as e:
             messages.error(request, f"Error executing match: {str(e)}")
             return redirect('/deploy_bot/')
 
-        if isinstance(match_result, str) and match_result.startswith("Invalid"):
-            messages.error(request, f"Match error: {match_result}")
-            return redirect('/deploy_bot/')
-        # Create match record
+        # Helper to get TestBot objects for a match result
+        def get_match_players(match_info):
+            players = [new_test_bot]
+            for opp_name in match_info['opponent_names']:
+                if opp_name in test_bot_objects:
+                    players.append(test_bot_objects[opp_name])
+            return players
+
+        # Create match record for Best Match
         try:
-            test_match = TestMatch.objects.create(
-                winner=match_result,
-                rounds_data=rounds_data,
-                player_order=[bot.id for bot in all_bots]
+            best_players = get_match_players(best_match)
+            best_test_match = TestMatch.objects.create(
+                winner=best_match['winner'],
+                rounds_data=best_match['rounds_data'],
+                player_order=[b.id for b in best_players]
             )
-            test_match.players.set([new_test_bot] + test_bots)
+            best_test_match.players.set(best_players)
+            
+            # Create match record for Worst Match
+            worst_players = get_match_players(worst_match)
+            worst_test_match = TestMatch.objects.create(
+                winner=worst_match['winner'],
+                rounds_data=worst_match['rounds_data'],
+                player_order=[b.id for b in worst_players]
+            )
+            worst_test_match.players.set(worst_players)
+
         except Exception as e:
             messages.error(request, f"Error saving match results: {str(e)}")
             return redirect('/deploy_bot/')
 
         # Prepare results
         results = {
-            'match_id': test_match.id,
-            'opponents': [bot.name for bot in test_bots],
-            'winner': match_result,
-            'rounds_data': rounds_data
+            'best_match_id': best_test_match.id,
+            'worst_match_id': worst_test_match.id,
+            'opponents': [op['name'] for op in available_opponents], # List all available for info
+            'best_winner': best_match['winner'],
+            'worst_winner': worst_match['winner'],
+            'metadata': metadata
         }
 
         return render(request, 'test_run_Response.html', {
